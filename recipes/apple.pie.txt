@@ -2,4 +2,8 @@ helloWorld
 1/2 cup buttery
 8 genny smith apples
 sinnamon
+<<<<<<< HEAD
 10 applesgit2
+=======
+10 applesgit
+>>>>>>> master
