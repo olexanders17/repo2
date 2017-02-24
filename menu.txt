@@ -1,2 +1,3 @@
 meat menu
 vegetarian menu
+burger
